@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B570D07-6D98-4CD6-9286-8631B2652E22}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gestão_Base_de_Dados</RootNamespace>
+    <AssemblyName>Gestão Base de Dados</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmTabFavoritos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTabFavoritos.Designer.cs">
+      <DependentUpon>frmTabFavoritos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFavoritos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFavoritos.Designer.cs">
+      <DependentUpon>frmFavoritos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNascimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNascimento.Designer.cs">
+      <DependentUpon>frmNascimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPremium.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPremium.Designer.cs">
+      <DependentUpon>frmPremium.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdicionarFilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdicionarFilme.Designer.cs">
+      <DependentUpon>frmAdicionarFilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarFilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarFilme.Designer.cs">
+      <DependentUpon>frmEditarFilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarPass.Designer.cs">
+      <DependentUpon>frmAlterarPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistorico.Designer.cs">
+      <DependentUpon>frmHistorico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarDados.Designer.cs">
+      <DependentUpon>frmAlterarDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTabFilmes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTabFilmes.Designer.cs">
+      <DependentUpon>frmTabFilmes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTabAluguer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTabAluguer.Designer.cs">
+      <DependentUpon>frmTabAluguer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDefinicoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDefinicoes.Designer.cs">
+      <DependentUpon>frmDefinicoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminPrincipal.Designer.cs">
+      <DependentUpon>frmAdminPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAluguer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAluguer.Designer.cs">
+      <DependentUpon>frmAluguer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfoUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfoUtilizador.Designer.cs">
+      <DependentUpon>frmInfoUtilizador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistar.Designer.cs">
+      <DependentUpon>frmRegistar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUtilizadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUtilizadores.Designer.cs">
+      <DependentUpon>frmUtilizadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmTabFavoritos.resx">
+      <DependentUpon>frmTabFavoritos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFavoritos.resx">
+      <DependentUpon>frmFavoritos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNascimento.resx">
+      <DependentUpon>frmNascimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPremium.resx">
+      <DependentUpon>frmPremium.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdicionarFilme.resx">
+      <DependentUpon>frmAdicionarFilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarFilme.resx">
+      <DependentUpon>frmEditarFilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarPass.resx">
+      <DependentUpon>frmAlterarPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistorico.resx">
+      <DependentUpon>frmHistorico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarDados.resx">
+      <DependentUpon>frmAlterarDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTabFilmes.resx">
+      <DependentUpon>frmTabFilmes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTabAluguer.resx">
+      <DependentUpon>frmTabAluguer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDefinicoes.resx">
+      <DependentUpon>frmDefinicoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminPrincipal.resx">
+      <DependentUpon>frmAdminPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAluguer.resx">
+      <DependentUpon>frmAluguer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfoUtilizador.resx">
+      <DependentUpon>frmInfoUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistar.resx">
+      <DependentUpon>frmRegistar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUtilizadores.resx">
+      <DependentUpon>frmUtilizadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lupa.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ver.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\netflix_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\defeniçõesIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\adicionar2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\editar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\adicionar3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\aOrigem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\estrelaVazia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imagem\estrelaCheia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BaseDeDados.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

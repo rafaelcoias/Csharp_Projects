@@ -1,0 +1,13 @@
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\bin\Debug\Projeto EuroMilhoes.exe.config
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\bin\Debug\Projeto EuroMilhoes.exe
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\bin\Debug\Projeto EuroMilhoes.pdb
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto EuroMilhoes.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto_EuroMilhoes.frmAposta.resources
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto_EuroMilhoes.frmPrincipal.resources
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto_EuroMilhoes.Properties.Resources.resources
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto EuroMilhoes.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto EuroMilhoes.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto EuroMilhoes.exe
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto EuroMilhoes.pdb
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto_EuroMilhoes.frmResultado.resources
+C:\Users\rafae\source\repos\Projeto EuroMilhoes\obj\Debug\Projeto_EuroMilhoes.frmHistorico.resources

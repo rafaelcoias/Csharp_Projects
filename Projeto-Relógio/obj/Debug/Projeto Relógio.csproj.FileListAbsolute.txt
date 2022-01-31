@@ -1,0 +1,26 @@
+C:\Users\rafae\source\repos\Projeto Relógio\bin\Debug\Projeto Relógio.exe.config
+C:\Users\rafae\source\repos\Projeto Relógio\bin\Debug\Projeto Relógio.exe
+C:\Users\rafae\source\repos\Projeto Relógio\bin\Debug\Projeto Relógio.pdb
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto Relógio.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmPrincipal.resources
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto_Relógio.Properties.Resources.resources
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto Relógio.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto Relógio.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto Relógio.exe
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto Relógio.pdb
+C:\Users\rafae\source\repos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmAlarme.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\bin\Debug\Projeto Relógio.exe.config
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\bin\Debug\Projeto Relógio.exe
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\bin\Debug\Projeto Relógio.pdb
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto Relógio.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmAlarme.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmPrincipal.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.Properties.Resources.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto Relógio.csproj.GenerateResource.cache
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto Relógio.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto Relógio.exe
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto Relógio.pdb
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmCron.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmRMundial.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmToque.resources
+C:\Users\rafae\Documents\Projetos\Projeto Relógio\obj\Debug\Projeto_Relógio.frmDesc.resources

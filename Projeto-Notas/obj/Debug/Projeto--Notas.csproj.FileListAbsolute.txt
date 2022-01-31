@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Projeto--Notas\bin\Debug\Projeto--Notas.exe.config
+C:\Users\rafae\source\repos\Projeto--Notas\bin\Debug\Projeto--Notas.exe
+C:\Users\rafae\source\repos\Projeto--Notas\bin\Debug\Projeto--Notas.pdb
+C:\Users\rafae\source\repos\Projeto--Notas\obj\Debug\Projeto--Notas.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto--Notas\obj\Debug\Projeto--Notas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto--Notas\obj\Debug\Projeto--Notas.exe
+C:\Users\rafae\source\repos\Projeto--Notas\obj\Debug\Projeto--Notas.pdb

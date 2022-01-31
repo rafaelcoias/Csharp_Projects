@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Jogo do Galo\bin\Debug\Jogo do Galo.exe.config
+C:\Users\rafae\source\repos\Jogo do Galo\bin\Debug\Jogo do Galo.exe
+C:\Users\rafae\source\repos\Jogo do Galo\bin\Debug\Jogo do Galo.pdb
+C:\Users\rafae\source\repos\Jogo do Galo\obj\Debug\Jogo do Galo.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Jogo do Galo\obj\Debug\Jogo do Galo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Jogo do Galo\obj\Debug\Jogo do Galo.exe
+C:\Users\rafae\source\repos\Jogo do Galo\obj\Debug\Jogo do Galo.pdb

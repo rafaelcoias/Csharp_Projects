@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Jogo da forca\bin\Debug\Jogo da forca.exe.config
+C:\Users\rafae\source\repos\Jogo da forca\bin\Debug\Jogo da forca.exe
+C:\Users\rafae\source\repos\Jogo da forca\bin\Debug\Jogo da forca.pdb
+C:\Users\rafae\source\repos\Jogo da forca\obj\Debug\Jogo da forca.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Jogo da forca\obj\Debug\Jogo da forca.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Jogo da forca\obj\Debug\Jogo da forca.exe
+C:\Users\rafae\source\repos\Jogo da forca\obj\Debug\Jogo da forca.pdb

@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Calculadora - IF\bin\Debug\Calculadora - IF.exe.config
+C:\Users\rafae\source\repos\Calculadora - IF\bin\Debug\Calculadora - IF.exe
+C:\Users\rafae\source\repos\Calculadora - IF\bin\Debug\Calculadora - IF.pdb
+C:\Users\rafae\source\repos\Calculadora - IF\obj\Debug\Calculadora - IF.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Calculadora - IF\obj\Debug\Calculadora - IF.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Calculadora - IF\obj\Debug\Calculadora - IF.exe
+C:\Users\rafae\source\repos\Calculadora - IF\obj\Debug\Calculadora - IF.pdb

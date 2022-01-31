@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Projeto-Matrizes\bin\Debug\Projeto-Matrizes.exe.config
+C:\Users\rafae\source\repos\Projeto-Matrizes\bin\Debug\Projeto-Matrizes.exe
+C:\Users\rafae\source\repos\Projeto-Matrizes\bin\Debug\Projeto-Matrizes.pdb
+C:\Users\rafae\source\repos\Projeto-Matrizes\obj\Debug\Projeto-Matrizes.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto-Matrizes\obj\Debug\Projeto-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto-Matrizes\obj\Debug\Projeto-Matrizes.exe
+C:\Users\rafae\source\repos\Projeto-Matrizes\obj\Debug\Projeto-Matrizes.pdb

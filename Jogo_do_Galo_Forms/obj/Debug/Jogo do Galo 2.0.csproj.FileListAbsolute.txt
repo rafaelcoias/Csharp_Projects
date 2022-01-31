@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\bin\Debug\Jogo do Galo 2.0.exe.config
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\bin\Debug\Jogo do Galo 2.0.exe
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\bin\Debug\Jogo do Galo 2.0.pdb
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo do Galo 2.0.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo_do_Galo_2._0.frmPrincipal.resources
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo_do_Galo_2._0.frmJogo.resources
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo_do_Galo_2._0.Properties.Resources.resources
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo do Galo 2.0.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo do Galo 2.0.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo do Galo 2.0.exe
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo do Galo 2.0.pdb
+C:\Users\rafae\source\repos\Jogo do Galo 2.0\obj\Debug\Jogo_do_Galo_2._0.frmPecas.resources

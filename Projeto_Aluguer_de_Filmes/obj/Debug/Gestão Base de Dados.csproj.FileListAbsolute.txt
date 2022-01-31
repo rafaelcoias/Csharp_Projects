@@ -1,0 +1,81 @@
+C:\Users\rafae\source\repos\Gestão Base de Dados\bin\Debug\Gestão Base de Dados.exe.config
+C:\Users\rafae\source\repos\Gestão Base de Dados\bin\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\source\repos\Gestão Base de Dados\bin\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.Properties.Resources.resources
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmPrincipal.resources
+C:\Users\rafae\source\repos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmAdmin.resources
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\bin\Debug\Gestão Base de Dados.exe.config
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\bin\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\bin\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmAdmin.resources
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmPrincipal.resources
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.Properties.Resources.resources
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.csproj.GenerateResource.cache
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmProf.resources
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmAluno.resources
+C:\Users\rafae\Documents\Projetos\Gestão Base de Dados\obj\Debug\Gestão_Base_de_Dados.frmRegistar.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmRegistar.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmPrincipal.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.Properties.Resources.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csproj.GenerateResource.cache
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\bin\Debug\Gestão Base de Dados.exe.config
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\bin\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\bin\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmInfoUtilizador.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAluguer.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAdminPrincipal.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmDefinicoes.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmTabAluguer.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmUtilizadores.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmTabFilmes.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAlterarDados.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmHistorico.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAlterarPass.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmEditarFilme.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAdicionarFilme.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmPremium.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmNascimento.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmFavoritos.resources
+C:\Users\rafae\Documents\Projetos\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmTabFavoritos.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\bin\Debug\Gestão Base de Dados.exe.config
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\bin\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\bin\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmTabFavoritos.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmFavoritos.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmNascimento.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmPremium.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAdicionarFilme.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmEditarFilme.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAlterarPass.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmHistorico.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAlterarDados.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmTabFilmes.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmTabAluguer.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmDefinicoes.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAdminPrincipal.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmAluguer.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmInfoUtilizador.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmRegistar.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmUtilizadores.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.frmPrincipal.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão_Base_de_Dados.Properties.Resources.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csproj.GenerateResource.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.exe
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\obj\Debug\Gestão Base de Dados.pdb
+C:\Users\rafae\Documents\Projetos\Programação C#\Projeto Aluguer de Filmes\bin\Debug\BaseDeDados.accdb

@@ -1,0 +1,31 @@
+C:\Users\rafae\source\repos\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Users\rafae\source\repos\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Users\rafae\source\repos\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.Form1.resources
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Users\rafae\source\repos\CalculadoraForms\obj\Debug\CalculadoraForms.pdb
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.pdb
+C:\Users\rafae\Documents\Projetos\CalculadoraForms\obj\Debug\CalculadoraForms.Calculadora.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.Calculadora.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Users\rafae\Documents\Projetos\Programação C#\CalculadoraForms\obj\Debug\CalculadoraForms.pdb

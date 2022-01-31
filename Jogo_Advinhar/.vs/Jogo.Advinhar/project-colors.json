@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16b8f9c2-7317-43ce-a6ba-a477871f22a3": {
+      "ProjectGuid": "16b8f9c2-7317-43ce-a6ba-a477871f22a3",
+      "DisplayName": "Jogo.Advinhar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
