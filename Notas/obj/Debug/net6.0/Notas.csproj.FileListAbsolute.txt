@@ -1,0 +1,15 @@
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/bin/Debug/net6.0/Notas
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/bin/Debug/net6.0/Notas.deps.json
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/bin/Debug/net6.0/Notas.runtimeconfig.json
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/bin/Debug/net6.0/Notas.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/bin/Debug/net6.0/ref/Notas.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/bin/Debug/net6.0/Notas.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.csproj.AssemblyReference.cache
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.AssemblyInfoInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.AssemblyInfo.cs
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.csproj.CoreCompileInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/ref/Notas.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Notas/Notas/obj/Debug/net6.0/Notas.genruntimeconfig.cache

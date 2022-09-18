@@ -1,0 +1,15 @@
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/bin/Debug/net6.0/JogoDeTestes
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/bin/Debug/net6.0/JogoDeTestes.deps.json
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/bin/Debug/net6.0/JogoDeTestes.runtimeconfig.json
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/bin/Debug/net6.0/JogoDeTestes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/bin/Debug/net6.0/ref/JogoDeTestes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/bin/Debug/net6.0/JogoDeTestes.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.csproj.AssemblyReference.cache
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.AssemblyInfoInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.AssemblyInfo.cs
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.csproj.CoreCompileInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/ref/JogoDeTestes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_de_Testes/JogoDeTestes/obj/Debug/net6.0/JogoDeTestes.genruntimeconfig.cache

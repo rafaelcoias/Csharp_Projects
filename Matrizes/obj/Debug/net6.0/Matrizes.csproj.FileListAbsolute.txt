@@ -1,0 +1,15 @@
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/bin/Debug/net6.0/Matrizes
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/bin/Debug/net6.0/Matrizes.deps.json
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/bin/Debug/net6.0/Matrizes.runtimeconfig.json
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/bin/Debug/net6.0/Matrizes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/bin/Debug/net6.0/ref/Matrizes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/bin/Debug/net6.0/Matrizes.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.csproj.AssemblyReference.cache
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.AssemblyInfoInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.AssemblyInfo.cs
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.csproj.CoreCompileInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/ref/Matrizes.dll
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Projeto-Matrizes/Matrizes/obj/Debug/net6.0/Matrizes.genruntimeconfig.cache

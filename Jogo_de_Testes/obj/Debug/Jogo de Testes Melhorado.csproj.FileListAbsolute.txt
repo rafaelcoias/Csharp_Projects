@@ -1,7 +1,0 @@
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\bin\Debug\Jogo de Testes Melhorado.exe.config
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\bin\Debug\Jogo de Testes Melhorado.exe
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\bin\Debug\Jogo de Testes Melhorado.pdb
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\obj\Debug\Jogo de Testes Melhorado.csprojAssemblyReference.cache
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\obj\Debug\Jogo de Testes Melhorado.csproj.CoreCompileInputs.cache
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\obj\Debug\Jogo de Testes Melhorado.exe
-C:\Users\rafae\Documents\Projetos\Jogo de Testes Melhorado\obj\Debug\Jogo de Testes Melhorado.pdb

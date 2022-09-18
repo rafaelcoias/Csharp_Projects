@@ -1,0 +1,15 @@
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/bin/Debug/net6.0/OSeuNome
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/bin/Debug/net6.0/OSeuNome.deps.json
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/bin/Debug/net6.0/OSeuNome.runtimeconfig.json
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/bin/Debug/net6.0/OSeuNome.dll
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/bin/Debug/net6.0/ref/OSeuNome.dll
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/bin/Debug/net6.0/OSeuNome.pdb
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.csproj.AssemblyReference.cache
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.AssemblyInfoInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.AssemblyInfo.cs
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.csproj.CoreCompileInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.dll
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/ref/OSeuNome.dll
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.pdb
+/home/rafaelcoias/programming/Csharp_Projects/O_seu_nome/OSeuNome/obj/Debug/net6.0/OSeuNome.genruntimeconfig.cache

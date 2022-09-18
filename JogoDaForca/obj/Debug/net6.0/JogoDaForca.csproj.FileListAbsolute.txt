@@ -1,0 +1,15 @@
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/bin/Debug/net6.0/JogoDaForca
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/bin/Debug/net6.0/JogoDaForca.deps.json
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/bin/Debug/net6.0/JogoDaForca.runtimeconfig.json
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/bin/Debug/net6.0/JogoDaForca.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/bin/Debug/net6.0/ref/JogoDaForca.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/bin/Debug/net6.0/JogoDaForca.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.csproj.AssemblyReference.cache
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.AssemblyInfoInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.AssemblyInfo.cs
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.csproj.CoreCompileInputs.cache
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/ref/JogoDaForca.dll
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.pdb
+/home/rafaelcoias/programming/Csharp_Projects/Jogo_da_Forca/JogoDaForca/obj/Debug/net6.0/JogoDaForca.genruntimeconfig.cache
